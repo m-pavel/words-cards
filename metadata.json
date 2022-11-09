@@ -1,0 +1,8 @@
+{
+  "name": "Words cards",
+  "description": "Learn words by showing them in notifications.",
+  "uuid": "words@cards",
+  "shell-version": [
+    "42"
+  ]
+}
